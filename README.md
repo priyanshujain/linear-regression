@@ -11,6 +11,6 @@ You can just run
 `pip install -r requirements.txt`
 in terminal to install the necessary dependencies. Here is a link to [pip](https://pip.pypa.io/en/stable/installing/) if you don't already have it.
 
-##Usage
+## Usage
 
-Type `python demo.py` into terminal and you'll see the scatter plot and line of best fit appear.
+Type `python <filename>.py` into terminal and you'll see the scatter plot and line of best fit appear.
